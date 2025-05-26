@@ -1,0 +1,1 @@
+This project creates a real-time chat application using Python's built-in socket for network communication and tkinter for the GUI interface. It supports basic messaging between multiple clients connected to a central server.
